@@ -32,12 +32,12 @@
   background: #ebebeb;
 }
 
-.diagram-footer {
-  margin-top: 50px;
+.diagram-header {
+  margin: 32px 0 24px;
   display: flex;
   justify-content: flex-end;
 }
 
-.diagram-footer .btn {
+.diagram-header .btn {
   margin-right: 15px;
 }
