@@ -31,3 +31,13 @@
 .participant-2:hover {
   background: #ebebeb;
 }
+
+.diagram-footer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.diagram-footer .btn {
+  margin-right: 15px;
+}
