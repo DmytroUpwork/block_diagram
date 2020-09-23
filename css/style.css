@@ -7,6 +7,12 @@
   margin: auto;
 }
 
+@media screen and (max-width: 992px) {
+  .container-row {
+    margin-top: 80px;
+  }
+}
+
 .form-group {
   margin: 0;
 }
@@ -18,7 +24,6 @@
 }
 
 .form-check {
-  width: 40%;
   position: absolute;
 }
 
