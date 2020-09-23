@@ -1,0 +1,18 @@
+.line {
+  font-size: 0;
+  width: 1px;
+  height: 20px;
+  color: #fff;
+  background-color: #d3c5c5;
+  margin: auto;
+}
+
+.form-group {
+  margin: 0;
+}
+
+.form-control:focus {
+  background-color: #fafafa;
+  border-color: #80bdff;
+  box-shadow: none;
+}
