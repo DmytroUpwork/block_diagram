@@ -1,7 +1,7 @@
 .line {
   font-size: 0;
   width: 1px;
-  height: 20px;
+  height: 40px;
   color: #fff;
   background-color: #d3c5c5;
   margin: auto;
@@ -15,4 +15,19 @@
   background-color: #fafafa;
   border-color: #80bdff;
   box-shadow: none;
+}
+
+.form-check {
+  width: 40%;
+  position: absolute;
+}
+
+.participant-2 {
+  cursor: pointer;
+  transition: 0.3s;
+  margin-top: 2px;
+}
+
+.participant-2:hover {
+  background: #ebebeb;
 }
